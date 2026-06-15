@@ -1,14 +1,14 @@
 {
     "name": {
         "ar": "anovik",
-        "en": "anovik"
+        "en": "anovik-items"
     },
     "description": {
-        "ar": "",
-        "en": ""
+        "ar": null,
+        "en": null
     },
     "author_email": "boodg72@gmail.com",
-    "support_url": "",
+    "support_url": null,
     "repository": "https://github.com/itsaziz21/tw-anovik",
     "components": []
 }
